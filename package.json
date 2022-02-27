@@ -1,0 +1,33 @@
+{
+  "name": "@dwlib/utf8",
+  "version": "1.0.0",
+  "description": "UTF8",
+  "main": "lib/index.js",
+  "exports": {
+    "require": "./lib/index.js",
+    "import": "./lib/index.mjs"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwlib-js/utf8.git"
+  },
+  "keywords": [
+    "utf8",
+    "encoding",
+    "decoding"
+  ],
+  "author": "Pavel Wolf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dwlib-js/utf8/issues"
+  },
+  "homepage": "https://github.com/dwlib-js/utf8#readme",
+  "dependencies": {
+    "@dwlib/abstract": "^1.0.1",
+    "@dwlib/primordials": "^1.0.1"
+  }
+}
