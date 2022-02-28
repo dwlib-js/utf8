@@ -1,6 +1,6 @@
 {
   "name": "@dwlib/utf8",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "UTF8",
   "main": "lib/index.js",
   "exports": {
@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/dwlib-js/utf8#readme",
   "dependencies": {
-    "@dwlib/abstract": "^1.0.1",
+    "@dwlib/abstract": "^1.0.2",
     "@dwlib/primordials": "^1.0.1"
   }
 }
